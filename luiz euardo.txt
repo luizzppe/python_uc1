@@ -1,0 +1,196 @@
+Accodal: https://www.glassdoor.com.br/Vaga/full-stack-vagas-SRCH_KO0,10.htm :
+Para conseguir a vaga de Desenvolvedor Full Stack Low Code (Agentes de IA n8n), os pré-requisitos de conhecimentos e habilidades necessárias incluem tanto habilidades técnicas (hard skills) quanto habilidades interpessoais (soft skills). Aqui estão os detalhes:
+Pré-requisitos - Conhecimentos e Habilidades Técnicas (Hard Skills)
+
+    n8n (Automação de Fluxos e Agentes de IA):
+        Forte experiência na criação de Agentes de IA e automações usando a plataforma n8n.
+
+    Linguagens de Programação:
+        HTML/CSS/JavaScript/Python: Conhecimentos fundamentais em programação para personalizar e aprimorar soluções low-code.
+
+    Plataformas Low Code:
+        Familiaridade com ferramentas de low-code como WeWeb, Supabase, Xano e outras similares.
+
+    Gestão de Bancos de Dados:
+        Habilidades básicas para gerenciar bancos de dados utilizando ferramentas como Airtable e planilhas.
+
+    Integração de APIs e Node.js:
+        Proficiência em integrar APIs externas (JSON) e desenvolver endpoints personalizados de API utilizando Node.js.
+        Otimização do fluxo de dados entre sistemas.
+
+    UI/UX Design:
+        Capacidade de criar interfaces intuitivas e visualmente atraentes para as ferramentas internas e externas.
+
+    Automação e Integração de Sistemas:
+        Habilidade em integrar sistemas diversos e automatizar fluxos de trabalho para melhorar a eficiência operacional.
+
+    Gestão de Projetos:
+        Experiência em gerenciamento de projetos, assegurando que atendam aos requisitos e prazos estipulados.
+
+    Bancos de Dados Relacionais (PostgreSQL):
+        Experiência em design de esquemas, otimização de consultas e integridade de dados usando PostgreSQL.
+        Familiaridade com Supabase, RLS (Row Level Security), triggers e manipulação de JSON é um diferencial.
+
+Habilidades Interpessoais (Soft Skills)
+
+    Foco no Cliente:
+        Capacidade de identificar áreas que agreguem valor significativo aos clientes por meio de soluções inovadoras.
+
+    Resolução Criativa de Problemas:
+        Habilidade para resolver problemas de forma criativa e lógica, especialmente em automação e integração de sistemas.
+
+    Comunicação Eficaz:
+        Habilidade de comunicação clara e direta com membros da equipe e partes interessadas.
+
+    Adaptabilidade:
+        Flexibilidade para aprender novas ferramentas, como WeWeb, Supabase, Xano, e adaptar-se a requisitos de projetos em constante evolução.
+        Às vezes, uso de ferramentas no-code, como Airtable, Softr, etc.
+
+    Atenção aos Detalhes:
+        Foco na qualidade e nos detalhes para garantir que os desenvolvimentos atendam a padrões elevados de qualidade.
+
+    Trabalho em Equipe e Colaboração:
+        Habilidade para colaborar com equipes internas e externas, assegurando o sucesso dos projetos.
+
+    Independência e Iniciativa:
+        Capacidade de trabalhar de forma autônoma, entregando projetos com alta qualidade sem a necessidade de supervisão constante.
+
+    Aprendizado Contínuo:
+        Interesse e capacidade de se manter atualizado sobre tendências low-code e ferramentas inovadoras para melhorar as soluções criadas.
+
+    Criatividade:
+        Capacidade de inovar dentro das restrições de plataformas low-code para desenvolver soluções empresariais únicas e eficazes.
+
+Experiência Desejada
+
+    Experiência prévia na construção e gerenciamento de aplicações e automação usando plataformas low-code.
+    Experiência com n8n: Construção de Agentes de IA personalizados e automação de fluxos de trabalho para aumentar a eficiência do sistema.
+
+Conclusão: Para ser considerado para essa vaga, é essencial ter uma combinação sólida de habilidades técnicas (como automação com n8n, integração de APIs, design de interfaces e bancos de dados) e habilidades interpessoais, como boa comunicação, adaptação a novas ferramentas e capacidade de trabalhar em equipe. A experiência prática em plataformas low-code e no-code também será muito valorizada.
+
+Pmweb: https://br.indeed.com/q-desenvolvedor-full-stack-vagas.html?vjk=0310d274ef951b18 : 
+Para concorrer a essa vaga de Desenvolvedor(a) Full Stack na Pmweb, é necessário ter os seguintes conhecimentos e habilidades:
+Requisitos Obrigatórios:
+
+    Experiência com Desenvolvimento Full Stack (Front-end e Back-end):
+        Ter vivência prática no desenvolvimento tanto da parte de interface (front-end) quanto no processamento de dados e lógica (back-end) de sistemas.
+
+    Conhecimento Sólido em JavaScript e TypeScript:
+        Domínio das linguagens JavaScript e TypeScript, essenciais para o desenvolvimento de aplicações web e soluções escaláveis.
+
+    Experiência com APIs REST:
+        Experiência na criação e consumo de APIs baseadas no padrão REST, uma habilidade essencial para integração de sistemas.
+
+    Conhecimento de Bancos de Dados Relacionais e/ou NoSQL:
+        Familiaridade com bancos de dados tradicionais como MySQL, PostgreSQL, ou com bancos NoSQL como MongoDB, permitindo o armazenamento e consulta eficiente de dados.
+
+    Habilidade para Aprender Novas Tecnologias:
+        Capacidade de se adaptar a novas ferramentas e frameworks, além de ler e compreender documentações técnicas para aplicação em projetos.
+
+    Boa Comunicação e Capacidade de Interação com Clientes e Stakeholders:
+        Habilidade para entender as necessidades dos clientes e comunicar soluções técnicas de forma clara para públicos não técnicos.
+
+    Capacidade de Analisar e Estruturar Soluções Arquiteturais:
+        Visão para projetar e estruturar soluções de software de forma escalável, robusta e bem organizada.
+
+Diferenciais (não obrigatórios, mas valorizados):
+
+    Experiência com Salesforce Marketing Cloud ou Data Cloud:
+        Ter trabalhado com plataformas Salesforce ou outras soluções em nuvem para marketing e dados pode ser um diferencial importante.
+
+    Conhecimento em Salesforce Personalization:
+        Familiaridade com a ferramenta Salesforce Personalization, especialmente para criar experiências personalizadas para os clientes. Caso não tenha experiência prévia, a empresa oferece suporte para aprendizado.
+
+    Experiência com Microservices e Arquitetura Orientada a Eventos:
+        Experiência com arquitetura de microserviços e design orientado a eventos, essencial para construção de sistemas distribuídos e escaláveis.
+
+    Experiência com CI/CD e DevOps:
+        Familiaridade com integração contínua, entrega contínua (CI/CD) e práticas DevOps para garantir automação e eficiência no ciclo de vida do desenvolvimento.
+
+    Experiência com Python no Back-end:
+        Conhecimento em Python, particularmente para desenvolvimento back-end e automação de processos.
+
+    Conhecimento de Práticas de Engenharia de Software, Testes Automatizados e Code Reviews:
+        Conhecimento em práticas de engenharia de software, como testes automatizados (unitários, integração) e code reviews, para garantir código de alta qualidade.
+
+Características Pessoais e Culturais:
+
+    Proatividade e vontade de aprender: A empresa busca pessoas dispostas a se desafiar e aprender constantemente.
+    Trabalho em equipe: Capacidade de colaborar com outros desenvolvedores e arquitetos, trocando conhecimentos e promovendo boas práticas.
+    Mentalidade analítica: Habilidade para entender e resolver problemas complexos de forma eficiente.
+
+Esses são os principais pré-requisitos, conhecimentos e habilidades necessárias para se candidatar a essa vaga de Desenvolvedor(a) Full Stack na Pmweb.
+
+Nexaas: https://br.indeed.com/viewjob?jk=cb8114aa71f19ed6&from=shareddesktop : 
+Para conseguir a vaga descrita, os pré-requisitos, conhecimentos e habilidades necessárias são os seguintes:
+Pré-requisitos:
+
+    Experiência profissional:
+        Experiência comprovada como desenvolvedor Full Stack, ou seja, tanto no front-end quanto no back-end, com portfólio ou exemplos de projetos anteriores.
+
+    Conhecimento técnico:
+
+        Sólidos conhecimentos em linguagens de front-end:
+            HTML e CSS (conhecimento profundo das tecnologias básicas de estrutura e estilo de páginas web).
+            JavaScript (habilidade para programação interativa em páginas web).
+            Frameworks/bibliotecas: Familiaridade com React, Angular ou Vue.js para construção de interfaces modernas e reativas.
+
+        Experiência em back-end:
+            Conhecimento em Node.js, Python, Ruby, Java, .NET ou outras linguagens de programação que permitem criar o lado servidor da aplicação.
+
+        Banco de Dados:
+            Relacional: MySQL, PostgreSQL ou qualquer outro banco de dados relacional.
+            Não Relacional: MongoDB, Cassandra, ou outras soluções NoSQL.
+
+        Desenvolvimento de APIs RESTful:
+            Experiência no desenvolvimento e consumo de APIs RESTful para integração entre diferentes sistemas e soluções.
+
+    Controle de versão:
+        Git: Conhecimento em versionamento de código e controle de versão distribuído, colaborando de maneira eficiente em equipe.
+
+    Práticas de desenvolvimento ágil:
+        Familiaridade com metodologias como Scrum, Kanban ou outras práticas ágeis para gerenciar e entregar projetos de forma iterativa e incremental.
+
+    Segurança e performance:
+        Capacidade de garantir que as aplicações sejam seguras (proteção contra ataques, criptografia, autenticação, etc.) e otimizadas para uma performance ideal.
+
+Conhecimentos e Habilidades Necessárias:
+
+    Conhecimentos técnicos:
+        Proficiência em linguagens de front-end como HTML, CSS, e JavaScript.
+        Habilidade com frameworks de front-end (React, Angular, Vue.js).
+        Proficiência em linguagens de back-end como Node.js, Python, Ruby, Java, .NET.
+        Capacidade de desenvolver e integrar APIs RESTful.
+        Experiência em trabalhar com bancos de dados relacionais e não-relacionais.
+
+    Desenvolvimento Ágil:
+        Experiência com metodologias ágeis, como Scrum ou Kanban, e utilização de ferramentas de gestão de projetos (Jira, Trello, etc).
+
+    UX/UI:
+        Noções de UX/UI: Conhecimento básico de design de interfaces e experiência do usuário (UX/UI) para garantir que as aplicações sejam intuitivas e de fácil utilização.
+
+    Práticas de código limpo e boas práticas:
+        Capacidade de escrever código limpo, modular e bem documentado.
+        Comprometido com práticas de testes e validação para garantir a qualidade do software.
+
+    Habilidades interpessoais:
+        Capacidade de trabalhar em equipe e colaborar de forma eficaz com designers, equipes de produto e engenheiros.
+        Boa comunicação para entender as necessidades do negócio e traduzir isso em soluções técnicas.
+
+    Capacidade de resolução de problemas:
+        Habilidade para identificar e resolver problemas técnicos de forma criativa e eficiente.
+
+Diferenciais:
+
+    Experiência com ferramentas de build e automação (Webpack, Gulp, etc.).
+    Familiaridade com cloud computing e plataformas como AWS, Google Cloud ou Azure.
+    Conhecimentos de Docker ou Kubernetes para desenvolvimento de aplicações containerizadas e orquestração de containers.
+
+Estes são os conhecimentos e habilidades fundamentais para se qualificar para a vaga. Se você se encaixar nas competências descritas e tiver experiência prática nessas áreas, tem boas chances de conseguir o cargo!
+
+
+
+
+
+
+

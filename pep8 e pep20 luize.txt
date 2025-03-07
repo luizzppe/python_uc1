@@ -1,0 +1,54 @@
+PEP (Python Enhancement Proposal):Uma PEP é uma proposta de melhoria para o Python. Elas são usadas para sugerir novos recursos, melhorias ou alterações na linguagem e são documentadas para discussão dentro da comunidade de desenvolvedores.
+
+Pep 20: O Zen of Python (ou "Zen do Python") é uma coleção de princípios e filosofias para a linguagem de programação Python, expressa de maneira poética e filosófica. Foi escrito por Tim Peters, um dos desenvolvedores de Python, e serve como um guia informal sobre como o código Python deve ser escrito de forma legível, simples e elegante.
+
+Esses princípios ajudam a orientar os desenvolvedores a escrever código de boa qualidade e seguem a filosofia de "simplicidade sobre complexidade" e "explícito é melhor do que implícito". A ideia é que o código Python seja fácil de ler e entender, além de ter uma sintaxe limpa.
+
+Você pode visualizar o Zen do Python diretamente no Python com o comando:
+
+python
+Copiar
+import this
+Isso retornará os 19 princípios do Zen. Aqui estão alguns dos princípios mais conhecidos:
+
+"Beautiful is better than ugly." (O belo é melhor que o feio.)
+"Explicit is better than implicit." (Explícito é melhor que implícito.)
+"Simple is better than complex." (Simples é melhor que complexo.)
+"Complex is better than complicated." (Complexo é melhor que complicado.)
+"Readability counts." (A legibilidade conta.)
+
+
+O PEP 8 é um guia de estilo para a linguagem de programação Python. O nome PEP significa Python Enhancement Proposal, e o número 8 faz referência à proposta que define as convenções de estilo para o código Python.
+
+O PEP 8 foi criado para tornar o código Python mais consistente e legível, facilitando a colaboração entre desenvolvedores e a manutenção de projetos. Ele define convenções para vários aspectos da escrita de código, como:
+
+Alguns dos principais pontos do PEP 8:
+Indentação:
+
+Use 4 espaços para indentação (não use tabulações).
+Comprimento das linhas:
+
+As linhas de código não devem ter mais de 79 caracteres (ou 72 para docstrings).
+Espaços em branco:
+
+Coloque um espaço após vírgulas, mas não antes delas.
+Evite usar espaços extras em expressões e instruções.
+Nomes de variáveis e funções:
+
+Use snake_case para nomes de variáveis e funções (exemplo: minha_variavel).
+Use CamelCase para nomes de classes (exemplo: MinhaClasse).
+As constantes devem ser todas em maiúsculas e separadas por underscores (exemplo: MINHA_CONSTANTE).
+Docstrings:
+
+As docstrings (comentários que documentam funções e classes) devem ser usadas para descrever o propósito do código, e devem ser envolvidas por três aspas duplas (""").
+Importações:
+
+Coloque as importações no início do arquivo.
+Importações devem ser agrupadas em três categorias: bibliotecas padrão, bibliotecas de terceiros e bibliotecas locais.
+Comentários:
+
+Comentários devem ser completos e úteis, explicando o "porquê" do código, não o "como".
+Use comentários inline com moderação e sempre depois de pelo menos dois espaços de código.
+Essas convenções ajudam a garantir que o código seja legível, consistente e fácil de manter, especialmente em projetos colaborativos.
+
+Se você programar em Python, seguir o PEP 8 pode tornar seu código mais fácil de ler e entender para outros desenvolvedores e, até mesmo, para você no futuro. Existem também ferramentas como o flake8 ou black que podem verificar ou formatar seu código automaticamente, garantindo que ele esteja de acordo com o PEP 8
