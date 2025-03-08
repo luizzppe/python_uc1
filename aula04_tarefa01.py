@@ -1,16 +1,16 @@
 x=10
-print(x)
+print(f"o valor inicial de x é: {x}")
 x+=5
-print(x)
+print(f"o novo valor de x é: {x}")
 x-=3
-print(x)
+print(f"o novo valor de x é: {x}")
 x*=2
-print(x)
+print(f"o novo valor de x é: {x}")
 x/=4
-print(x)
+print(f"o novo valor de x é: {x}")
 x//=3
-print(x)
+print(f"o novo valor de x é: {x}")
 x%=2
-print(x)
+print(f"o novo valor de x é: {x}")
 x**=3
-print(x)
+print(f"o novo valor de x é: {x}")
