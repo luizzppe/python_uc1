@@ -1,4 +1,4 @@
-for i in range(9999999):
+for i in range(3):
     print(i)
 else:
     print("Loop concluído!")
