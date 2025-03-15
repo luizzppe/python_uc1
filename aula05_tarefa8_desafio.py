@@ -33,7 +33,7 @@ else :
 
 #SEU CODIGO COM FRASES MAIORES:
 
-idade=int(input("Digite sua idade: "))
+"""idade=int(input("Digite sua idade: "))
 if idade <= 21 :
     print ("Você não pode pegar um emprestimo! (idade minima não atingida) ")
 else :
@@ -45,4 +45,20 @@ else :
         if (sujo == "sim") :
             print ("Você não pode pegar um emprestimo! (seu nome está sujo) ")
         else :
-            print ("Você pode pegar um emprestimo! ")  
+            print ("Você pode pegar um emprestimo! ")  """
+
+
+# REFIZ O CODIGO UM DIA DEPOIS SEM OLHAR O SEU !
+idade=int(input("Digite sua idade: "))
+if idade < 21:
+    print("Você não pode fazer um empretimo! ")
+else:
+    renda=int(input("Digit sua renda: "))
+    if renda < 2000:
+        print("Você pode pegar um emprestimo! ")
+    else:
+        sujo=str(input("Você tem o nome sujo? (responda com sim ou não): "))
+        if sujo == "sim":
+            print("Você não pode pegar um emprestimo!")
+        else:
+            print("Você pode pegar um emprestimo! ")
