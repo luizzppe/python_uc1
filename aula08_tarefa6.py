@@ -9,9 +9,9 @@ def fatorial(n):
             resultado*=i
         return resultado
 def test_fatorial():
-    numero=int(input("\n\ntDigite um numero para que seja calculado o fatorial: "))
+    numero=int(input("Digite um numero para que seja calculado o fatorial: "))
     resultado=fatorial(numero)
-    print(f"\n\nt O fatorial de {numero} ({numero}!) é igual à {resultado}\n\n")
+    print(f"\n\n O fatorial de {numero} ({numero}!) é igual à {resultado}\n\n")
 
 if __name__ == "__main__":
     test_fatorial()
