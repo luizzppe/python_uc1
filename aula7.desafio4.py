@@ -15,4 +15,13 @@ while numero>=1:
 else:
     print(f"{fatorial}")
 
+"""
+P  N  F    Proc
+1  5  1    leitura
+2  4  5    processamento
+3  3  20   processamento
+4  2  60   processamento
+5  1  120  processamento
+6  0  120  imprimindo o valor na tela
+"""
 
