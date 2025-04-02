@@ -21,5 +21,5 @@ class carro(veiculo):
 
 
 if __name__ == "__main__":
-    meucarro=carro("toyota ", "corolla ", 2020, 4, "vermelho", "kpw2442")
+    meucarro=carro("toyota ", "corolla ", 2020, 4, "vermelho", "abc3442")
     meucarro.exibir_info()
